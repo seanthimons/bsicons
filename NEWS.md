@@ -1,7 +1,5 @@
 # bsicons (development version)
 
-# bsicons 0.1.3
-
 * Update icon update script to automatically fetch the latest release and refresh icon data.
 
 # bsicons 0.1.2
