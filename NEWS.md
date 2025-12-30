@@ -1,7 +1,7 @@
 # bsicons (development version)
 
 * Update icon update script to automatically fetch the latest release and refresh icon data.
-* Update icons from v1.11.1 to v1.13.1 (see [release notes](https://github.com/twbs/icons/releases/tag/v1.13.1))
+* Update icons from v1.11.1 to v1.13.1 (see [release notes](https://github.com/twbs/icons/releases/tag/v1.13.1)). (#17)
 
 # bsicons 0.1.2
 
