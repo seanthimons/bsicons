@@ -20,7 +20,7 @@ withr::with_tempdir({
   download.file(
     sprintf("https://github.com/twbs/icons/archive/refs/tags/v%s.zip", version),
     "icons.zip",
-		mode = 'wb'
+  mode = 'wb'
   )
   unzip("icons.zip")
   setwd(paste0("icons-", version))
